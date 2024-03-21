@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Rocamora-García</h1>
 <h3 align="center">I'm a Biomedical Engineer currently finalizing my master's degree in Artificial Intelligence. My interest lies deeply in the application of deep learning within the medical field, particularly focusing on multimodal AI technologies.</h3>
 
-- 📫 How to reach me **rocamoragarcia.pablo@gmail.com**
+- 📫 How to reach me **prg66@alu.ua.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
