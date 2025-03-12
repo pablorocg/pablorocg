@@ -7,8 +7,8 @@
 
 ### 🌟 **About Me**
 - 🎓 Working on my Biomedical Engineering Master's at Technical University of Denmark, focused on AI in healthcare.  
-- 📚 Already finished my AI Master's at University of Alicante (scored 8.84/10!).  
-- 🧠 Really into **multimodal AI**, **computer vision**, **bioprocess simulation**, and **analyzing health data**.  
+- 📚 Already finished my AI Master's at University of Alicante.  
+- 🧠 Really into **deep learning**, **multimodal AI**, **computer vision**, and **analyzing health data**.  
 - 🏆 Won some awards for my healthcare tech innovations!
 
 
@@ -71,5 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pablorocg&show_icons=true" />
 </picture>
 
-<h3 align="left">Publications</h3>
-<p align="left">I wrote a cool paper on brain pathway mapping using deep learning! Check it out: Rocamora-García, P., et al. (2023). A Deep Approach for Volumetric Tractography Segmentation. <a href="https://doi.org/10.1007/978-3-031-36616-1_46">Read it here</a> </p>
+### **Publications**
+<p align="left">Rocamora-García, P., Saval-Calvo, M., Villena-Martinez, V., Gallego, A.J. (2023). A Deep Approach for Volumetric Tractography Segmentation. In: Pertusa, A., Gallego, A.J., Sánchez, J.A., Domingues, I. (eds) Pattern Recognition and Image Analysis. IbPRIA 2023. Lecture Notes in Computer Science, vol 14062. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-36616-1_46">https://doi.org/10.1007/978-3-031-36616-1_46</a> </p>
