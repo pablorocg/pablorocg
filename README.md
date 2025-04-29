@@ -1,16 +1,14 @@
 <h1 align="center">Hey there! 👋 I'm Pablo Rocamora García</h1>
-<h3 align="center">Biomedical Engineer | AI Enthusiast | Healthcare Tech Geek</h3>
+<h3 align="center">Biomedical Engineer | AI Enthusiast | Healthcare Tech</h3>
 
-<p align="center">I mix biomedical engineering with AI to solve healthcare problems. I love building cool tech that helps doctors and patients!</p>
+<p align="center">I mix biomedical engineering with AI to solve healthcare problems.</p>
 
 
 
 ### 🌟 **About Me**
 - 🎓 Working on my Biomedical Engineering Master's at Technical University of Denmark, focused on AI in healthcare.  
 - 📚 Already finished my AI Master's at University of Alicante.  
-- 🧠 Really into **deep learning**, **multimodal AI**, **computer vision**, and **analyzing health data**.  
-- 🏆 Won some awards for my healthcare tech innovations!
-
+- 🧠 Really into **deep learning**, **multimodal AI**, **computer vision**, and **analyzing data**. 
 
 
 ### 🔬 **Work & School Stuff**
@@ -20,29 +18,6 @@
   
 - **Research Assistant** @ University of Alicante (2023)  
   - Worked on computer vision and machine learning for medical uses.
-
-
-
-### 🛠️ **Cool Projects**
-- **Brain Mapping with Graph Neural Networks (2024)**  
-  - Created a new way to map brain connections using fancy math and AI.  
-  - 🛠️ Used: Python, Torch Geometric, Docker.
-
-- **Making LLMs Smarter with RAG (2024)**  
-  - Built a system to help large language models give better answers.  
-  - 🛠️ Used: Python, HuggingFace, PyTorch, Docker.
-
-- **3D Brain Pathway Mapping (2023)**  
-  - Made 3D models of brain pathways using neural networks.  
-  - 🛠️ Used: TensorFlow, PyTorch, Dipy, Slicer 3D.
-
-
-
-### 🏅 **Awards**
-- **Fundeun Award (2024)**: Best ICT Project for "BrainNext Labs."  
-- **UAEmpende Award (2024)**: Best Final Degree Project with business applications.  
-- **Digital Transformation Award (2023)**: For making cool digital tools for healthcare.
-
 
 
 ### 💻 **Tech I Use**
