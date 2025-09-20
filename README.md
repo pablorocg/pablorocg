@@ -13,4 +13,3 @@ I'm a Master's student in Biomedical Engineering, specializing in computer visio
 
 - 📫 Email: [rocamoragarcia.pablo@gmail.com]
 - 🔗 LinkedIn: [https://linkedin.com/in/pablo-rocamora-garcia]
-- 🌐 Website/Blog: [yourwebsite.com]
