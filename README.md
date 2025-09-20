@@ -1,9 +1,16 @@
-<h1 align="center">Hey there! 👋 I'm Pablo Rocamora García</h1>
+# Hey there! 👋 I'm Pablo
 
-### 📫 **Get in Touch**
-- 📧 Email: **rocamoragarcia.pablo@gmail.com**  
-- 🌐 [LinkedIn](https://linkedin.com/in/pablo-rocamora-garcia)  
-- 🖥️ [GitHub](https://github.com/pablorocg)
+I'm a Master's student in Biomedical Engineering, specializing in computer vision and medical imaging, currently based in Copenhagen, Denmark. Originally from Spain, I'm passionate about leveraging AI and machine learning to advance healthcare technologies. My research focuses on deep learning applications in tractography and brain imaging.
 
-### **Publications**
-<p align="left">Rocamora-García, P., Saval-Calvo, M., Villena-Martinez, V., Gallego, A.J. (2023). A Deep Approach for Volumetric Tractography Segmentation. In: Pertusa, A., Gallego, A.J., Sánchez, J.A., Domingues, I. (eds) Pattern Recognition and Image Analysis. IbPRIA 2023. Lecture Notes in Computer Science, vol 14062. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-36616-1_46">https://doi.org/10.1007/978-3-031-36616-1_46</a> </p>
+## Skills
+
+- **Programming:** Python, PyTorch, Bash, SQL, LaTeX
+- **Technologies:** Git/GitHub, Docker/Apptainer, HPC (Slurm/PBS), Linux/Ubuntu
+- **Domains:** Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, Foundation Models
+- **Other:** Academic Writing, Conference Presentations, Data Visualization
+
+## Get in Touch
+
+- 📫 Email: [rocamoragarcia.pablo@gmail.com]
+- 🔗 LinkedIn: [https://linkedin.com/in/pablo-rocamora-garcia]
+- 🌐 Website/Blog: [yourwebsite.com]
